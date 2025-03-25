@@ -1,0 +1,11 @@
+23435213; Ana María Trigati; Seguro de Vida | Seguro automotor (NUV210)
+26678123; Alicia Mercado; Seguro de Vida;
+32564876; Gustavo Lamperti; Seguro automotor (AU 123 VM)
+27654987; Paulina Gutierrez; Seguro automotor (AG 023 AA)
+23987189; Raúl Álvarez; Seguro automotor (AF 956 CA) | Seguro automotor (MON830)
+17893076; Laura Arellano; Seguro de Vida
+18763908; Nicolás Sampieri; Seguro automotor (COW217)
+28765932; María José Fiorito; Seguro automotor (GUZ712)
+26898320; José Luis Pérez; Seguro de Vida
+24980167; Leopoldo Martínez; Seguro automotor (WNK321) | Seguro de Vida
+12345678; Juan Carlos Nicoletti; Seguro de Vida | Seguro automotor (AH 431 BD)
